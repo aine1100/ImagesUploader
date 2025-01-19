@@ -64,4 +64,4 @@ ImagesUploader/
 ## License
 
 This project is part of an educational assignment and is not intended for commercial use
-```
+
