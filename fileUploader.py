@@ -5,7 +5,7 @@ import subprocess
 
 # Directory paths
 watch_folder = "/home/aine/Pictures/Screenshots"  #this is the folder url where the pictures are stores
-uploaded_folder = "/home/aine/Pictures/Uploaded"  # this is the path which stores the uploaded pictures
+uploaded_folder = "/uploaded"  # this is the path which stores the uploaded pictures
 
 # Upload URL
 upload_url = "https://projects.benax.rw/f/o/r/e/a/c/h/p/r/o/j/e/c/t/s/4e8d42b606f70fa9d39741a93ed0356c/iot_testing_202501/upload.php"
